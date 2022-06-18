@@ -4,15 +4,19 @@ body {
     justify-content: center;
     min-height: 100vh;
     margin: 0;
-    background-color: pink;
+    background-color: yellowgreen;
+}
+h1{
+    border:4mm ridge purple;
+    padding-bottom: 10px;
 }
 .polar-bear {
     --polar-bear: #fff;
     --polar-bear-highlight: #bfcde0;
     --polar-bear-face: #1e2019;
-    --polar-bear-scarf: yellow;
-    --polar-bear-scarf-end: #5215ed;
-    --polar-bear-scarf-dark: #720000;
+    --polar-bear-scarf: orangered;
+    --polar-bear-scarf-end: #a01c67;
+    --polar-bear-scarf-dark: #311313;
     width: 20rem;
     height: 20rem;
     position: relative;
