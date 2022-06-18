@@ -4,15 +4,15 @@ body {
     justify-content: center;
     min-height: 100vh;
     margin: 0;
-    background-color: blue;
+    background-color: pink;
 }
 .polar-bear {
     --polar-bear: #fff;
     --polar-bear-highlight: #bfcde0;
     --polar-bear-face: #1e2019;
-    --polar-bear-scarf: orange;
-    --polar-bear-scarf-end: #ed6115;
-    --polar-bear-scarf-dark: #720026;
+    --polar-bear-scarf: yellow;
+    --polar-bear-scarf-end: #5215ed;
+    --polar-bear-scarf-dark: #720000;
     width: 20rem;
     height: 20rem;
     position: relative;
