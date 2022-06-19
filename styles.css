@@ -1,15 +1,20 @@
 body {
+    background-color: yellowgreen;
+}
+#container {
     display: flex;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    margin: 0;
+    /* margin: 0; */
     background-color: yellowgreen;
 }
 h1{
     border:4mm ridge purple;
     padding-bottom: 10px;
+    background-color: pink;
 }
+
 .polar-bear {
     --polar-bear: #fff;
     --polar-bear-highlight: #bfcde0;
